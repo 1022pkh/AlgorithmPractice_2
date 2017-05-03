@@ -6,7 +6,6 @@
 2. 퀵정렬
 ![mergeSort](/img/mergeSort.jpeg)
 
-3. 힙정렬
-참고사이트
-*[googlelink]: https://ko.wikipedia.org/wiki/%ED%9E%99_%EC%A0%95%EB%A0%AC
-*[blog]: http://jungjim.tistory.com/65
+3. 힙정렬 : 참고사이트 첨부
++ https://ko.wikipedia.org/wiki/%ED%9E%99_%EC%A0%95%EB%A0%AC
++ http://jungjim.tistory.com/65
