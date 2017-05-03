@@ -7,5 +7,6 @@
 ![mergeSort](/img/mergeSort.jpeg)
 
 3. 힙정렬
--[googlelink]: https://ko.wikipedia.org/wiki/%ED%9E%99_%EC%A0%95%EB%A0%AC
--[blog]: http://jungjim.tistory.com/65
+참고사이트
+>[googlelink]: https://ko.wikipedia.org/wiki/%ED%9E%99_%EC%A0%95%EB%A0%AC
+>[blog]: http://jungjim.tistory.com/65
